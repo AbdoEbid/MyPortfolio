@@ -1,4 +1,4 @@
-# 🚀 Abdelrahman Muhammad Kamal – Portfolio
+# 🚀 Abdelrahman Obeid – Portfolio
 
 Welcome to my **developer portfolio repository**!  
 This repo showcases the projects I have built during my journey as a **Full Stack .NET Developer** at ITI and beyond.  
@@ -28,7 +28,7 @@ A **full-stack rental platform** inspired by Airbnb.
 - 💳 **Stripe payment integration**  
 - 🛠 Built with: **ASP.NET Core Web API, Angular, EF Core, SQL Server, Docker**
 
-👉 [View Repository](https://github.com/IamAbdelrahman/Travellin)
+👉 [View Repository](https://github.com/AbdoEbid/Travellin)
 
 ---
 
@@ -39,7 +39,7 @@ A complete platform for managing schools.
 - 👨‍👩‍👧 Parents track children’s progress  
 - 🛠 Built with: **ASP.NET Core MVC, SQL Server, Bootstrap**
 
-👉 [View Repository](https://github.com/IamAbdelrahman/School_Management_System)
+👉 [View Repository](https://github.com/AbdoEbid/School_Management_System)
 
 ---
 
@@ -50,7 +50,7 @@ An online exam management system.
 - Students take exams online with real-time validation  
 - 🛠 Built with: **ASP.NET Core Web API, Angular, SQL Server**
 
-👉 [View Repository](https://github.com/IamAbdelrahman/Examination-System)
+👉 [View Repository](https://github.com/AbdoEbid/Exam-system)
 
 ---
 
